@@ -1,0 +1,22 @@
+ _________________________________________________________________________________
+/                                                                                  \
+|                                                                                  |
+|                  Welcome to fantastic Super meat boy adventure !                 |
+| Go trought a marvelous world and jump over the obstacles to save bandage girl    |
+|                                                                                  |
+|    < = = = = = = = = = = = = = = How to play = = = = = = = = = = = = = = = >     |
+|               Launch the game like so : ./my_runner [Path_to_the_map]            |
+|                                                                                  |
+|    -h For more informations about the game, but basically if you are             |
+|    reading this here you've already done it sooo....                             |
+|                                                                                  |
+|    -i To launch the game in infinit mode                                         |
+|                                                                                  |
+|    - [map] where map is a file containing the level !                            |
+|                                                                                  |
+|    < = = = = = = = = = = = = = = = = Keys = = = = = = = = = = = = = = = = = >    |
+|                                                                                  |
+|    [SPACE_BAR] : Jump                                                            |
+|    [H] : Pause the game                                                          |
+\__________________________________________________________________________________/
+
